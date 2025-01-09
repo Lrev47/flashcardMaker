@@ -1,0 +1,1 @@
+This is the beginning of a super comprehensive flashcard maker where i plan to create flashcards with with questio/answers as well as QR codes that lead me back to a knoledge database where i will have more detailed infromation.
